@@ -24,6 +24,7 @@ p {
 .divider {
     border-bottom: 1px solid #888989;
     margin: 2px 0;
+    clear: right;
 }
 
 .bold {
@@ -41,4 +42,18 @@ p {
 }
 .sm-text {
     font-size: 0.85rem;
+}
+
+.calories-info h1 {
+    margin: -5px  -2px;
+    overflow: hidden;
+}
+
+.calories-info span {
+    font-size: 1.2em;
+    margin-top: -7px;
+}
+
+.md {
+    height: 5px;
 }
